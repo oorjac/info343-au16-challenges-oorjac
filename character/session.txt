@@ -1,0 +1,16 @@
+Oorjas-MBP:character Oorja$ pwd
+/Users/Oorja/Desktop/info343-code/info343-au16-challenges-oorjac/character
+Oorjas-MBP:character Oorja$ echo $PATH
+/Users/Oorja/Library/Enthought/Canopy_64bit/User/bin:/Users/Oorja/anaconda/bin:/Library/Frameworks/Python.framework/Versions/3.5/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+Oorjas-MBP:character Oorja$ mkdir img
+Oorjas-MBP:character Oorja$ cp ../.gitignore ./img
+Oorjas-MBP:character Oorja$ cat ./img/.gitignore
+# Mac system file; the leading # marks a comment
+.DS_Store
+
+# example: don't check in passwords or ssl keys!
+secret/my_password.txt
+
+# example: don't include large files or libraries
+movies/my_four_hour_epic.mov
+node_modules

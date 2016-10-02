@@ -1,0 +1,9 @@
+# Mac system file; the leading # marks a comment
+.DS_Store
+
+# example: don't check in passwords or ssl keys!
+secret/my_password.txt
+
+# example: don't include large files or libraries
+movies/my_four_hour_epic.mov
+node_modules
